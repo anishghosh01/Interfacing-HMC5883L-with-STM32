@@ -1,0 +1,14 @@
+22:20:34 **** Incremental Build of configuration Debug for project test0 ****
+make -j16 all 
+arm-none-eabi-size  test0.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30284	    468	   2092	  32844	   804c	test0.elf
+Finished building: default.size.stdout
+ 
+22:20:41 **** Incremental Build of configuration Debug for project test0 ****
+make -j16 all 
+arm-none-eabi-size  test0.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30284	    468	   2092	  32844	   804c	test0.elf
+Finished building: default.size.stdout
+ 

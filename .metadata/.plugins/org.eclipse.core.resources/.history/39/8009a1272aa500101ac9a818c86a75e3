@@ -1,0 +1,13 @@
+/*
+ * hmc5883l.h
+ *
+ *  Created on: Oct 9, 2025
+ *      Author: anish
+ */
+
+#ifndef INC_HMC5883L_H_
+#define INC_HMC5883L_H_
+
+
+
+#endif /* INC_HMC5883L_H_ */

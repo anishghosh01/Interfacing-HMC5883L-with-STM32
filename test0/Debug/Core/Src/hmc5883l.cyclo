@@ -1,0 +1,3 @@
+../Core/Src/hmc5883l.c:17:19:HMC5883L_Init	17
+../Core/Src/hmc5883l.c:57:19:HMC5883L_ReadData	2
+../Core/Src/hmc5883l.c:83:7:HMC5883L_GetHeading	2

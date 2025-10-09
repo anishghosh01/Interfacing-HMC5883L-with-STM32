@@ -1,0 +1,36 @@
+!SESSION 2025-10-09 21:27:27.849 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-09 21:27:46.522
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-09 21:27:46.524
+!MESSAGE Log4j2 initialized with config file C:\Users\anish\OneDrive\Documents\GitHub_Repositories\Interfacing-HMC5883L-with-STM32\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-09 21:27:50.109
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-09 21:29:17.480
+!MESSAGE Indexed 'test0' (19 sources, 81 headers) in 5.83 sec: 4,563 declarations; 21,879 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0076%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-09 21:41:46.352
+!MESSAGE Indexed 'test0' (24 sources, 87 headers) in 1.93 sec: 6,411 declarations; 38,236 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0045%)
+!SESSION 2025-10-09 22:25:08.455 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-09 22:25:17.730
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-09 22:25:17.732
+!MESSAGE Log4j2 initialized with config file C:\Users\anish\OneDrive\Documents\GitHub_Repositories\Interfacing-HMC5883L-with-STM32\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-09 22:25:24.222
+!MESSAGE Started RMI Server, listening on port 41337
